@@ -1,0 +1,43 @@
+{
+  "files": {
+    "main.css": "/avengers-cards/static/css/main.822c1660.chunk.css",
+    "main.js": "/avengers-cards/static/js/main.dfa703fc.chunk.js",
+    "main.js.map": "/avengers-cards/static/js/main.dfa703fc.chunk.js.map",
+    "runtime-main.js": "/avengers-cards/static/js/runtime-main.438538ef.js",
+    "runtime-main.js.map": "/avengers-cards/static/js/runtime-main.438538ef.js.map",
+    "static/css/2.6d7c7915.chunk.css": "/avengers-cards/static/css/2.6d7c7915.chunk.css",
+    "static/js/2.14da41b9.chunk.js": "/avengers-cards/static/js/2.14da41b9.chunk.js",
+    "static/js/2.14da41b9.chunk.js.map": "/avengers-cards/static/js/2.14da41b9.chunk.js.map",
+    "static/js/3.f1f35f30.chunk.js": "/avengers-cards/static/js/3.f1f35f30.chunk.js",
+    "static/js/3.f1f35f30.chunk.js.map": "/avengers-cards/static/js/3.f1f35f30.chunk.js.map",
+    "index.html": "/avengers-cards/index.html",
+    "static/css/2.6d7c7915.chunk.css.map": "/avengers-cards/static/css/2.6d7c7915.chunk.css.map",
+    "static/css/main.822c1660.chunk.css.map": "/avengers-cards/static/css/main.822c1660.chunk.css.map",
+    "static/js/2.14da41b9.chunk.js.LICENSE.txt": "/avengers-cards/static/js/2.14da41b9.chunk.js.LICENSE.txt",
+    "static/media/am.53792b2d.png": "/avengers-cards/static/media/am.53792b2d.png",
+    "static/media/bp.eecbd948.png": "/avengers-cards/static/media/bp.eecbd948.png",
+    "static/media/bw.15357770.png": "/avengers-cards/static/media/bw.15357770.png",
+    "static/media/ca.b35badde.png": "/avengers-cards/static/media/ca.b35badde.png",
+    "static/media/cm.2499432e.png": "/avengers-cards/static/media/cm.2499432e.png",
+    "static/media/ds.08f4fae3.png": "/avengers-cards/static/media/ds.08f4fae3.png",
+    "static/media/fa.418e51eb.png": "/avengers-cards/static/media/fa.418e51eb.png",
+    "static/media/ha.3fae9559.png": "/avengers-cards/static/media/ha.3fae9559.png",
+    "static/media/hu.77b0dc85.png": "/avengers-cards/static/media/hu.77b0dc85.png",
+    "static/media/im.acbfab0d.png": "/avengers-cards/static/media/im.acbfab0d.png",
+    "static/media/nf.459767c2.png": "/avengers-cards/static/media/nf.459767c2.png",
+    "static/media/sm.872ba023.png": "/avengers-cards/static/media/sm.872ba023.png",
+    "static/media/th.018ad294.png": "/avengers-cards/static/media/th.018ad294.png",
+    "static/media/title.75b72141.png": "/avengers-cards/static/media/title.75b72141.png",
+    "static/media/vi.53ec3292.png": "/avengers-cards/static/media/vi.53ec3292.png",
+    "static/media/wm.67c9452a.png": "/avengers-cards/static/media/wm.67c9452a.png",
+    "static/media/wm2.c3901e6e.png": "/avengers-cards/static/media/wm2.c3901e6e.png",
+    "static/media/ws.674c421d.png": "/avengers-cards/static/media/ws.674c421d.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.438538ef.js",
+    "static/css/2.6d7c7915.chunk.css",
+    "static/js/2.14da41b9.chunk.js",
+    "static/css/main.822c1660.chunk.css",
+    "static/js/main.dfa703fc.chunk.js"
+  ]
+}
