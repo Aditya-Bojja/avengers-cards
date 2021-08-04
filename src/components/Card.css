@@ -1,0 +1,10 @@
+.custombg {
+    background: linear-gradient(to right, rgb(61, 61, 61), rgb(153, 153, 153));
+    color: whitesmoke;
+    font-family: 'KoHo', Times, serif;
+}
+
+.custombg img {
+    width: 250px;
+    height: 300px;
+}
